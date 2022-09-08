@@ -28,7 +28,7 @@ main {
 
 header {
   background: #4A00E0;
-  background: linear-gradient(to top, #4A00E0 0%, #8E2DE2 100%);
+  background: linear-gradient(to top, #00e08e 0%, #8E2DE2 100%);
   padding: 40px 15px;
   display: flex;
   flex-direction: column;
